@@ -1,4 +1,4 @@
-## Olá! Sou o Eduardo Lima
+## Olá! Sou o Eduardo Teixeira Lima
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudo ReactJS, NodeJS, Node-Red e MongoDB

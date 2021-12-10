@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/eduardolima1994">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduardolima1994&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolima1994&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduardolima1994&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolima1994&layout=compact&langs_count=7&theme=black"/>
 </div>
   
 ## Tecnologias preferidas:

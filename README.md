@@ -1,7 +1,7 @@
 ## Olá! Sou o Eduardo Teixeira Lima
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudo ReactJS, NodeJS, Node-Red e MongoDB
+- 🌱 Estudo ReactJS, NodeJS, Node-Red, Express e MongoDB
 - 💬 Contato: eduardolima.tecnico@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ JavaScript

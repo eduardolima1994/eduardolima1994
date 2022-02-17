@@ -2,8 +2,8 @@
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudo ReactJS, NodeJS, ExpressJS e MongoDB
+- 📱  Whatsapp: (75)99261-2883
 - 💬 Email: eduardolima.tecnico@gmail.com
--  📱 Whatsapp: (75)99261-2883
 - 😄 Pronouns: ele/dele
 - ⚡ JavaScript, CSS3 e HTML5
 

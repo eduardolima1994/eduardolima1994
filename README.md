@@ -1,11 +1,11 @@
 ## Olá! Sou Eduardo Teixeira Lima
 
-- 🔭 Hoje trabalho com backend
-- 🌱 Estudo ReactJS, NodeJS, ExpressJS e MongoDB
+- 🚀 Hoje trabalho com backend
+- 📖 Estudo: Typescript, React, Node, Express, Fastify, SQL e NoSQL
 - 📱 Whatsapp: (75)99261-2883
-- 💬 Email: eduardolima.tecnico@gmail.com
-- 😄 Pronouns: ele/dele
-- ⚡ JavaScript, CSS3 e HTML5
+- ✉️ Email: eduardolima.tecnico@gmail.com
+- 👨‍💻 Pronouns: ele/dele
+- ⚡ Javascript, CSS3 e HTML5
 
 <div align="center">
    <a href="https://github.com/eduardolima1994">

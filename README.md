@@ -9,9 +9,9 @@
 
 <div align="center">
    <a href="https://github.com/eduardolima1994">
-      <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=eduardolima1994&theme=vue&border_radius=3.5&locale=pt_BR" />
+      <img src="https://github-readme-stats.vercel.app/api?username=eduardolima1994&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
    </a>
- </div>  
+</div>  
   
 ## Tecnologias preferidas:
   

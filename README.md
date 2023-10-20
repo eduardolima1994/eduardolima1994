@@ -1,6 +1,6 @@
 ## Olá! Sou Eduardo Teixeira Lima
 
-- 🚀 Trabalho como Fullstack
+- 🚀 Atualmente, atuo como desenvolvedor Fullstack
 - 📖 Estudo: Typescript, React, Node, Testes (Jest e Vitest), Express, Fastify, SQL e NoSQL
 - 📱 Whatsapp: (75)99261-2883
 - ✉️ Email: eduardolima.tecnico@gmail.com
